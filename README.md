@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle)
+
 # Paquete npm @ull-edna-joseluis-kevin-35l2/ull-shape-rectangle
 
 ## Descripción
