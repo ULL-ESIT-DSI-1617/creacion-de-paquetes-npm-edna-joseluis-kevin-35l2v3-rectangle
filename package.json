@@ -1,0 +1,32 @@
+{
+  "name": "creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle",
+  "version": "1.0.0",
+  "description": "Módulo simple que representa formas rectangulares.",
+  "main": "index.js",
+  "scripts": {
+    "doc": "documentation build index.js -f html -o docs",
+    "test": "./node_modules/mocha/bin/mocha --require should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle.git"
+  },
+  "keywords": [
+    "shape",
+    "area",
+    "rectangle"
+  ],
+  "author": "José Luis Doblado González <alu0100767001@ull.edu.es> (https://alu0100767001.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle#readme",
+  "dependencies": {
+    "@ull-edna-joseluis-kevin-35l2/ull-shape": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+}
