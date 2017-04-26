@@ -1,5 +1,5 @@
 {
-  "name": "creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-rectangle",
+  "name": "@ull-edna-joseluis-kevin-35l2/ull-shape-rectangle",
   "version": "1.0.0",
   "description": "Módulo simple que representa formas rectangulares.",
   "main": "index.js",
